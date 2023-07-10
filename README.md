@@ -14,8 +14,6 @@
 
 
 ## My Skill Set  
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
- 
 <table><tr><td valign="top" width="33%">
 
 
@@ -57,8 +55,9 @@
 </td><td valign="top" width="33%">
 
 
+
 </td></tr></table>  
-</div>
+
 <br/>  
 
 
