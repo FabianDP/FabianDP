@@ -1,220 +1,66 @@
 # 👋 Hola, soy Wilson Fabián Delgado
 
-## Senior Full Stack Developer
+### 🚀 Senior Full Stack Developer
+**Java · Spring Boot · C# · .NET · Node.js · Python · Angular · React**
 
-Soy **Desarrollador Senior Full Stack con más de 8 años de experiencia en desarrollo de software**, participando en el diseño, desarrollo, integración y mantenimiento de aplicaciones empresariales.
-
-Mi experiencia se enfoca principalmente en desarrollo **Backend y Full Stack**, trabajando con diferentes ecosistemas tecnológicos como **Java/Spring Boot, C#/.NET, Node.js y Python**, además de tecnologías Frontend como **Angular, React y Next.js**.
-
-Me enfoco en construir soluciones escalables, mantenibles y orientadas a buenas prácticas de ingeniería de software.
+📍 Bogotá, Colombia
 
 ---
 
-## 🚀 Tecnologías principales
+## 👨‍💻 Sobre mí
 
-### Backend
+Soy **Senior Full Stack Developer con más de 8 años de experiencia** en el diseño, desarrollo e integración de aplicaciones empresariales.
 
-- Java
-- Spring Boot
-- C#
-- .NET / .NET Core
-- ASP.NET Core
-- ASP.NET MVC
-- Node.js
-- Express.js
-- Python
-- Web API
-- APIs RESTful
-- GraphQL
+Mi experiencia se concentra en desarrollo **Backend y Full Stack**, trabajando con **Java/Spring Boot, C#/.NET, Node.js y Python**, además de tecnologías Frontend como **Angular, React y Next.js**.
 
-### Frontend
-
-- Angular
-- React.js
-- Next.js
-- JavaScript ES6+
-- TypeScript
-- HTML5
-- CSS3
-- Redux / Redux Toolkit
-- Tailwind CSS
-
-### Bases de datos
-
-- Oracle
-- SQL Server
-- PostgreSQL
-- MySQL
-- MongoDB
-- SQL
-- Procedimientos almacenados
-- Optimización de consultas
-
-### Arquitectura
-
-- Microservicios
-- APIs REST
-- Integración de sistemas
-- Arquitectura MVC
-- ETL
-- Clean Code
-- SOLID
-- TDD
-- Pruebas de integración
-
-### Cloud & DevOps
-
-- Git
-- GitHub
-- GitLab
-- Docker
-- CI/CD
-- Azure
-- AWS
-- Maven
-- Swagger / OpenAPI
-
-### Metodologías
-
-- Scrum
-- Desarrollo ágil
-- Control de versiones
-- Code Review
-- Refactorización
-- Mejora continua
+He participado en el desarrollo de **APIs RESTful, arquitecturas de microservicios, integraciones entre sistemas, optimización de consultas SQL y procesos CI/CD**, aplicando buenas prácticas como **Clean Code y SOLID**.
 
 ---
 
-## 💼 Experiencia
+## 🛠️ Tech Stack
 
-A lo largo de mi trayectoria profesional he participado en proyectos de desarrollo de software utilizando diferentes stacks tecnológicos.
+### ⚙️ Backend
 
-### ☕ Java / Spring Boot
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-Experiencia en:
+### 🎨 Frontend
 
-- Desarrollo de servicios Backend con Java y Spring Boot.
-- Diseño e implementación de APIs RESTful.
-- Arquitecturas orientadas a servicios y microservicios.
-- Implementación de lógica de negocio.
-- Integración con bases de datos relacionales.
-- Integración entre aplicaciones y servicios.
-- Maven.
-- Aplicación de principios SOLID y buenas prácticas.
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔷 C# / .NET
+### 🗄️ Bases de Datos
 
-Experiencia en:
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- C# y .NET/.NET Core.
-- ASP.NET Core.
-- ASP.NET MVC.
-- Web API.
-- Entity Framework.
-- Desarrollo de APIs REST.
-- Integración de sistemas.
-- Arquitectura MVC.
-- Aplicaciones empresariales.
-- Mantenimiento correctivo y evolutivo.
+### ☁️ Cloud & DevOps
 
-### 🟢 Node.js / TypeScript
-
-Experiencia trabajando con:
-
-- Node.js.
-- Express.js.
-- JavaScript.
-- TypeScript.
-- APIs REST.
-- Integración Frontend/Backend.
-- Aplicaciones web Full Stack.
-- React y Next.js.
-- Bases de datos relacionales.
-
-### 🐍 Python
-
-Experiencia utilizando Python como parte de soluciones de software, integración y procesamiento de información.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🗄️ Bases de datos y SQL
+## 🧠 Especialidades
 
-Tengo experiencia trabajando con bases de datos relacionales y no relacionales:
-
-- Oracle
-- SQL Server
-- PostgreSQL
-- MySQL
-- MongoDB
-
-También cuento con experiencia en:
-
-- Desarrollo de consultas SQL.
-- Optimización de consultas.
-- Procedimientos almacenados.
-- Integración y migración de información.
-- Procesos ETL.
-- Análisis y optimización de rendimiento.
-
----
-
-## 🏗️ Desarrollo de software
-
-Durante mi experiencia profesional he participado en:
-
-- Diseño y desarrollo de aplicaciones Full Stack.
-- Desarrollo de Backend.
-- Desarrollo Frontend.
-- Arquitectura de microservicios.
-- Diseño y consumo de APIs REST.
-- Integración entre sistemas.
-- Optimización de aplicaciones.
-- Refactorización de código.
-- Resolución de incidencias.
-- Documentación técnica.
-- Procesos CI/CD.
-- Metodologías ágiles Scrum.
-
----
-
-## 🎓 Formación
-
-**Ingeniería Electrónica**  
-Universidad ECCI
-
-**Desarrollo Full Stack**  
-Henry
-
-**Programador Java**  
-Universidad Compensar
-
-**Bootcamp Inteligencia Artificial**  
-Universidad Sergio Arboleda
-
----
-
-## 🎯 Enfoque profesional
-
-Actualmente mi perfil está orientado principalmente a posiciones como:
-
-- Senior Full Stack Developer
-- Senior Java Developer
-- Java / Spring Boot Developer
-- Senior .NET Developer
-- C# / .NET Developer
-- Node.js Backend Developer
-- Full Stack Java / Angular
-- Full Stack .NET / Angular
-- Full Stack Node.js / React
-
-Me interesa participar en proyectos donde pueda aportar mi experiencia en desarrollo de software, arquitectura, integración de sistemas y buenas prácticas, mientras continúo fortaleciendo mis conocimientos en Cloud, DevOps, microservicios e Inteligencia Artificial.
-
----
-
-## 📫 Contacto
-
-📍 Bogotá D.C., Colombia
-
-💼 Senior Full Stack Developer
-
-📧 ingelectronico.fabian@gmail.com
+```text
+Backend Development       ████████████████████
+Full Stack Development    ████████████████████
+REST APIs                 ████████████████████
+Microservices             ███████████████████░
+SQL & Databases           ███████████████████░
+Cloud & DevOps            █████████████████░░░
