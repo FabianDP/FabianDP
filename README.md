@@ -55,12 +55,76 @@ He participado en el desarrollo de **APIs RESTful, arquitecturas de microservici
 
 ---
 
-## 🧠 Especialidades
+🏗️ Arquitectura de Microservicios
+🔌 Diseño e integración de APIs RESTful
+🔄 Integración entre sistemas
+🗃️ Optimización de consultas SQL
+🧩 Desarrollo Backend & Frontend
+🐳 Contenedores con Docker
+🔄 Procesos CI/CD
+🧪 TDD y pruebas de integración
+🧹 Clean Code & SOLID
+⚡ Optimización y refactorización
+💼 Experiencia Técnica
+☕ Java / Spring Boot
 
-```text
-Backend Development       ████████████████████
-Full Stack Development    ████████████████████
-REST APIs                 ████████████████████
-Microservices             ███████████████████░
-SQL & Databases           ███████████████████░
-Cloud & DevOps            █████████████████░░░
+Desarrollo de servicios Backend, APIs RESTful, microservicios, lógica de negocio, integraciones y acceso a bases de datos.
+
+💜 C# / .NET
+
+Desarrollo de aplicaciones empresariales con C#, .NET/.NET Core, ASP.NET MVC, Web API, APIs REST e integración con Oracle y SQL Server.
+
+🟢 Node.js / TypeScript
+
+Desarrollo Backend y Full Stack utilizando Node.js, Express.js, JavaScript y TypeScript, integrando aplicaciones mediante APIs REST.
+
+🐍 Python
+
+Experiencia utilizando Python en soluciones de software, procesamiento e integración de información.
+
+🅰️ Angular / ⚛️ React
+
+Desarrollo de aplicaciones web modernas, componentes reutilizables e integración Frontend-Backend mediante servicios REST.
+
+🏆 Lo que aporto
+
+✔ Más de 8 años desarrollando software
+
+✔ Experiencia en aplicaciones empresariales y sistemas de alta importancia
+
+✔ Desarrollo end-to-end: Frontend + Backend + Bases de Datos
+
+✔ Experiencia trabajando con Java, .NET y Node.js
+
+✔ Diseño e integración de APIs y Microservicios
+
+✔ Experiencia con Oracle y SQL Server
+
+✔ Optimización y resolución de problemas técnicos
+
+✔ Trabajo colaborativo bajo Scrum
+
+✔ Orientación a código limpio, mantenible y escalable
+
+🎓 Formación
+
+🎓 Ingeniería Electrónica — Universidad ECCI
+
+💻 Desarrollo Full Stack — Henry
+
+☕ Programador Java — Universidad Compensar
+
+🤖 Bootcamp Inteligencia Artificial — Universidad Sergio Arboleda
+
+📊 GitHub
+
+🤝 Conectemos
+
+Estoy interesado en oportunidades como:
+
+Senior Full Stack Developer · Java/Spring Boot Developer · .NET Developer · Node.js Developer
+
+📍 Bogotá, Colombia
+📧 ingelectronico.fabian@gmail.com
+
+💡 Siempre aprendiendo, construyendo y mejorando soluciones de software.
