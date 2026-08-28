@@ -108,18 +108,6 @@ Desarrollo de aplicaciones web modernas, componentes reutilizables e integració
 ✔ Orientación a código limpio, mantenible y escalable
 
 
-🎓 Formación
-
-🎓 Ingeniería Electrónica — Universidad ECCI
-
-💻 Desarrollo Full Stack — Henry
-
-☕ Programador Java — Universidad Compensar
-
-🤖 Bootcamp Inteligencia Artificial — Universidad Sergio Arboleda
-
-📊 GitHub
-
 🤝 Conectemos
 
 Estoy interesado en oportunidades como:
