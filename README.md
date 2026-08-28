@@ -76,7 +76,7 @@ Desarrollo de aplicaciones empresariales con C#, .NET/.NET Core, ASP.NET MVC, We
 
 🟢 Node.js / TypeScript
 
-Desarrollo Backend y Full Stack utilizando Node.js, Express.js, JavaScript y TypeScript, integrando aplicaciones mediante APIs REST.
+Desarrollo Backend y Full Stack utilizando Node.js, Express.js, Next.js,Nest.js JavaScript y TypeScript, integrando aplicaciones mediante APIs REST.
 
 🐍 Python
 
@@ -85,6 +85,7 @@ Experiencia utilizando Python en soluciones de software, procesamiento e integra
 🅰️ Angular / ⚛️ React
 
 Desarrollo de aplicaciones web modernas, componentes reutilizables e integración Frontend-Backend mediante servicios REST.
+
 
 🏆 Lo que aporto
 
@@ -106,6 +107,7 @@ Desarrollo de aplicaciones web modernas, componentes reutilizables e integració
 
 ✔ Orientación a código limpio, mantenible y escalable
 
+
 🎓 Formación
 
 🎓 Ingeniería Electrónica — Universidad ECCI
@@ -122,7 +124,7 @@ Desarrollo de aplicaciones web modernas, componentes reutilizables e integració
 
 Estoy interesado en oportunidades como:
 
-Senior Full Stack Developer · Java/Spring Boot Developer · .NET Developer · Node.js Developer
+Senior Full Stack Developer · Java/Spring Boot Developer · .NET Developer · Node.js Developer ·Python Developer
 
 📍 Bogotá, Colombia
 📧 ingelectronico.fabian@gmail.com
