@@ -1,106 +1,220 @@
-### <div align="center">Soy Fabian, un desarrollador  full-stack a tiempo completo 👨‍💻 que le gusta y le apasiona la programación  🚀</div>  
-  
+# 👋 Hola, soy Wilson Fabián Delgado
 
-- 🔭 Actualmente estoy trabajando en mi [Github Profilinator](https://github.com/FabianDP)  
-  
+## Senior Full Stack Developer
 
-- 🌱 Actualmente estoy estudiando typescript entre otras cosas 😁  
-  
+Soy **Desarrollador Senior Full Stack con más de 8 años de experiencia en desarrollo de software**, participando en el diseño, desarrollo, integración y mantenimiento de aplicaciones empresariales.
 
-- 😎 Dato curioso : soy una persona muy proactiva   
-  
+Mi experiencia se enfoca principalmente en desarrollo **Backend y Full Stack**, trabajando con diferentes ecosistemas tecnológicos como **Java/Spring Boot, C#/.NET, Node.js y Python**, además de tecnologías Frontend como **Angular, React y Next.js**.
 
-<br/>  
+Me enfoco en construir soluciones escalables, mantenibles y orientadas a buenas prácticas de ingeniería de software.
 
+---
 
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
+## 🚀 Tecnologías principales
 
+### Backend
 
+- Java
+- Spring Boot
+- C#
+- .NET / .NET Core
+- ASP.NET Core
+- ASP.NET MVC
+- Node.js
+- Express.js
+- Python
+- Web API
+- APIs RESTful
+- GraphQL
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
+### Frontend
 
-</td><td valign="top" width="50%">
+- Angular
+- React.js
+- Next.js
+- JavaScript ES6+
+- TypeScript
+- HTML5
+- CSS3
+- Redux / Redux Toolkit
+- Tailwind CSS
 
+### Bases de datos
 
+- Oracle
+- SQL Server
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQL
+- Procedimientos almacenados
+- Optimización de consultas
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
+### Arquitectura
 
-</td></tr></table>  
+- Microservicios
+- APIs REST
+- Integración de sistemas
+- Arquitectura MVC
+- ETL
+- Clean Code
+- SOLID
+- TDD
+- Pruebas de integración
 
-<br/>  
+### Cloud & DevOps
 
+- Git
+- GitHub
+- GitLab
+- Docker
+- CI/CD
+- Azure
+- AWS
+- Maven
+- Swagger / OpenAPI
 
-## Connect with me  
-<div align="center">
-<a href="https://www.facebook.com/Fabian Pachon" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/FabianDP" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/wilson-fabian-delgado-pachon-a7459514a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/Fabian Pachon" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+### Metodologías
 
-<br/>  
+- Scrum
+- Desarrollo ágil
+- Control de versiones
+- Code Review
+- Refactorización
+- Mejora continua
 
+---
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FabianDP&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 💼 Experiencia
 
-<br/>  
+A lo largo de mi trayectoria profesional he participado en proyectos de desarrollo de software utilizando diferentes stacks tecnológicos.
 
+### ☕ Java / Spring Boot
 
-## Recent Blog Posts  
-proyectos 
-1) Countries =>https://github.com/FabianDP/PIcountries
-2) RENT-IFY => https://pf-rentify-frontend.vercel.app  
-  
+Experiencia en:
 
-<br/>  
+- Desarrollo de servicios Backend con Java y Spring Boot.
+- Diseño e implementación de APIs RESTful.
+- Arquitecturas orientadas a servicios y microservicios.
+- Implementación de lógica de negocio.
+- Integración con bases de datos relacionales.
+- Integración entre aplicaciones y servicios.
+- Maven.
+- Aplicación de principios SOLID y buenas prácticas.
 
-  
+### 🔷 C# / .NET
 
-<br/>  
+Experiencia en:
 
-  
+- C# y .NET/.NET Core.
+- ASP.NET Core.
+- ASP.NET MVC.
+- Web API.
+- Entity Framework.
+- Desarrollo de APIs REST.
+- Integración de sistemas.
+- Arquitectura MVC.
+- Aplicaciones empresariales.
+- Mantenimiento correctivo y evolutivo.
 
-<br/>  
+### 🟢 Node.js / TypeScript
 
+Experiencia trabajando con:
 
-<br />
+- Node.js.
+- Express.js.
+- JavaScript.
+- TypeScript.
+- APIs REST.
+- Integración Frontend/Backend.
+- Aplicaciones web Full Stack.
+- React y Next.js.
+- Bases de datos relacionales.
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+### 🐍 Python
+
+Experiencia utilizando Python como parte de soluciones de software, integración y procesamiento de información.
+
+---
+
+## 🗄️ Bases de datos y SQL
+
+Tengo experiencia trabajando con bases de datos relacionales y no relacionales:
+
+- Oracle
+- SQL Server
+- PostgreSQL
+- MySQL
+- MongoDB
+
+También cuento con experiencia en:
+
+- Desarrollo de consultas SQL.
+- Optimización de consultas.
+- Procedimientos almacenados.
+- Integración y migración de información.
+- Procesos ETL.
+- Análisis y optimización de rendimiento.
+
+---
+
+## 🏗️ Desarrollo de software
+
+Durante mi experiencia profesional he participado en:
+
+- Diseño y desarrollo de aplicaciones Full Stack.
+- Desarrollo de Backend.
+- Desarrollo Frontend.
+- Arquitectura de microservicios.
+- Diseño y consumo de APIs REST.
+- Integración entre sistemas.
+- Optimización de aplicaciones.
+- Refactorización de código.
+- Resolución de incidencias.
+- Documentación técnica.
+- Procesos CI/CD.
+- Metodologías ágiles Scrum.
+
+---
+
+## 🎓 Formación
+
+**Ingeniería Electrónica**  
+Universidad ECCI
+
+**Desarrollo Full Stack**  
+Henry
+
+**Programador Java**  
+Universidad Compensar
+
+**Bootcamp Inteligencia Artificial**  
+Universidad Sergio Arboleda
+
+---
+
+## 🎯 Enfoque profesional
+
+Actualmente mi perfil está orientado principalmente a posiciones como:
+
+- Senior Full Stack Developer
+- Senior Java Developer
+- Java / Spring Boot Developer
+- Senior .NET Developer
+- C# / .NET Developer
+- Node.js Backend Developer
+- Full Stack Java / Angular
+- Full Stack .NET / Angular
+- Full Stack Node.js / React
+
+Me interesa participar en proyectos donde pueda aportar mi experiencia en desarrollo de software, arquitectura, integración de sistemas y buenas prácticas, mientras continúo fortaleciendo mis conocimientos en Cloud, DevOps, microservicios e Inteligencia Artificial.
+
+---
+
+## 📫 Contacto
+
+📍 Bogotá D.C., Colombia
+
+💼 Senior Full Stack Developer
+
+📧 ingelectronico.fabian@gmail.com
